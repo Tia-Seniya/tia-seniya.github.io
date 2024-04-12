@@ -1,5 +1,5 @@
 # tia-seniya.github.io
-Website of Theo Seniya - Educator for the Golden Age
+Website of Thea Seniya - Educator for the Golden Age
 ----
 ## This is Under Construction
 ### But Still of Some Value
