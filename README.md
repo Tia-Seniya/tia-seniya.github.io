@@ -1,8 +1,8 @@
 # tia-seniya.github.io
 Website of Theo Seniya - Educator for the Golden Age
 ----
-##This is Under Construction
-###But Still of Some Value
+## This is Under Construction
+### But Still of Some Value
 
 I am a person who worked in tech for my career, in parallel with being a student of metaphysics, mysticism and history.
 
