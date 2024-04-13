@@ -1,15 +1,15 @@
-###### tia-seniya.github.io
+tia-seniya.github.io
 # Website of Thea Seniya 
 #### Professor for the Golden Age
 
-## This Site is Under Construction
+This Site is Under Construction
 ---- 
-# Mission 
+## Mission 
 
-I seek to educate and inspire others in order to help them enhance their positive perspective of life, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
+>I seek to educate and inspire others in order to help them enhance their positive perspective of life, and to build community that will persist into a new era >and be the foundation for a healthy and happy global society of the future. 
 --- 
 
-## A Bit ABout Thea
+## A Bit About Thea
 
 --- 
 
@@ -40,7 +40,7 @@ Power Switching Quality Control
 Senior Lab Technician
 Engineering Assistant
 
-###### Ontario Power Generation, Inc 
+##### Ontario Power Generation, Inc 
 DNGD Nuclear Power Station
 Software Quality Assurance
 Reactor Fueling Computer Maintenance Consultant
@@ -62,13 +62,13 @@ Ontario, Canada
 1973  Army Reserve
 1975  Regular Forces Basic Nova Scotia, Canada
 
-###### Canadian Forces Communications and Electrical Engineering
+##### Canadian Forces Communications and Electrical Engineering
 
 Ontario, Canada
 1975-1976  Communications Terminal Equiment Techician
 1977      Communications Network Operation
 
-###### Electronic Engineering Technology
+##### Electronic Engineering Technology
 
 1978-1980 Fleming College, Ontario, Canada
 
@@ -77,33 +77,33 @@ Ontario, Canada
 1993-1997 Trent UNiversity, Ontario, Canada
 
 --- 
-#### Self Directed
+#### Self Directed  
 
-1974 Egyptian Magick
-1974 Yaqui Shamanism
-1982 Western Esoteric Tradition - self-directed & via AMORC
-1981-1982 Wesern Astrology - British School of Astrology
-1983-1984 American Indigenous History and Culture
-2002 Hatha & Laya Yoga - Yasodhara Ashram
-2002- present Sanatan Dharma
-2003-2004 Shaiva Siddhanta - Himalayan Academy
-2006 Teacher of Buddhism - New Kadampa Tradition
-2006-2009 Vajrayana & other Mahayana, Theravda Buddhism
+ - 1974 Egyptian Magick. 
+ - 1974 Yaqui Shamanism  
+ - 1982 Western Esoteric Tradition - self-directed & via AMORC  
+ - 1981-1982 Wesern Astrology - British School of Astrology  
+ - 1983-1984 American Indigenous History and Culture  
+ - 2002 Hatha & Laya Yoga - Yasodhara Ashram  
+ - 2002- present Sanatan Dharma. 
+ - 2003-2004 Shaiva Siddhanta - Himalayan Academy  
+ - 2006 Teacher of Buddhism - New Kadampa Tradition  
+ - 2006-2009 Vajrayana & other Mahayana, Theravda Buddhism  
 --- 
-### Travels
+#### Travels
 
-1969 England
-2003 USA Northeast
-2007 California
-2008 Scotland & Northern England 
-2009 Beijing, Central Tibet
-2010 Arizona
-2011 Arizona
-2012 New Mexico, Massachusetts
-2013 New Mexico, Colorado, Arizona, Pennsylvania
-2014 Chicago
-2015 Sedona, Arizona
-2016 --
-2017 Scotland, HIghlands, Outer Hebrides, Canadian Maritimes
-2018 Cape Breton Island
+ - 1969 England
+ - 2003 USA Northeast
+ - 2007 California
+ - 2008 Scotland & Northern England 
+ - 2009 Beijing, Central Tibet
+ - 2010 Arizona
+ - 2011 Arizona
+ - 2012 New Mexico, Massachusetts
+ - 2013 New Mexico, Colorado, Arizona, Pennsylvania
+ - 2014 Chicago
+ - 2015 Sedona, Arizona
+ - 2016 --
+ - 2017 Scotland, HIghlands, Outer Hebrides, Canadian Maritimes
+ - 2018 Cape Breton Island
 
