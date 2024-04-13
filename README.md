@@ -7,7 +7,7 @@ Professor of the Golden Age
 ---- 
 ## Mission 
 
->I seek to educate and inspire others in order to help them enhance their positive perspective of life, and to build community that will persist into a new era >and be the foundation for a healthy and happy global society of the future. 
+>I seek to educate and inspire others in order to help them enhance their positive perspective of life, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
 
 ## A Bit About Thea
