@@ -1,8 +1,9 @@
 tia-seniya.github.io
-# Website of Thea Seniya 
-#### Professor for the Golden Age
-
 This Site is Under Construction
+
+# Website of Thea Seniya  
+Professor of the Golden Age
+
 ---- 
 ## Mission 
 
@@ -15,7 +16,7 @@ This Site is Under Construction
 
 I am a person who worked in electrical, electronics, and software for my career, in parallel with being a student of metaphysics, mysticism and history.
 
-Tech attracted me since in is a series of mysteries to the uninitiated, and once unraveled is useful. I've always liked ot build things and improve them. My parellel track attracted me in the same way, with the promise of unravelling the Secret of the Universe, and creating something unforgettable, and possibly wonderful.
+Technology attracted me since I viewed it is a series of mysteries, and once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parellel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
 
 ### Curriculum Vitae
 
@@ -58,15 +59,15 @@ Ontario, Canada
 1963-1975
 ##### Military Training
 
-1972  Cadet Leadership
-1973  Army Reserve
-1975  Regular Forces Basic Nova Scotia, Canada
+ - 1972  Cadet Leadership
+ - 1973  Army Reserve
+ - 1975  Regular Forces Basic Nova Scotia, Canada
 
 ##### Canadian Forces Communications and Electrical Engineering
 
 Ontario, Canada
-1975-1976  Communications Terminal Equiment Techician
-1977      Communications Network Operation
+ - 1975-1976  Communications Terminal Equiment Techician
+ - 1977      Communications Network Operation
 
 ##### Electronic Engineering Technology
 
@@ -74,7 +75,7 @@ Ontario, Canada
 
 ##### Psychology and Computers
 
-1993-1997 Trent UNiversity, Ontario, Canada
+ - 1993-1997 Trent UNiversity, Ontario, Canada
 
 --- 
 #### Self Directed  
