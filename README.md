@@ -6,7 +6,7 @@ This Site is Under Construction
 
 ---- 
 ## Mission 
-Philosopher, Spiritual Educator and Occaisional Professor of the Golden Age
+Philosopher, Spiritual Educator and Occasional Professor of the Golden Age
 
 >I seek to educate and inspire others in order to help them live with more delight, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
@@ -17,6 +17,11 @@ Philosopher, Spiritual Educator and Occaisional Professor of the Golden Age
 I am a person who worked in electrical, electronics, and software for my career, in parallel with being a student of metaphysics, mysticism and history.
 
 Technology attracted me since I viewed it is a series of mysteries, and once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parellel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
+
+### Find me on Social Media
+ - [Youtube](www.youtube.com/@xenia_42)
+ - [X/Twitter](www.x.com/@t5fh8gtyy4)
+---  
 
 ### Curriculum Vitae
 
