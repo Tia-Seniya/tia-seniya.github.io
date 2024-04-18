@@ -2,17 +2,17 @@ tia-seniya.github.io
 This Site is Under Construction
 
 # Website of Thea Seniya  
-Professor of the Golden Age
+![IMG_7105](https://github.com/Tia-Seniya/tia-seniya.github.io/assets/166879066/67d179d2-6d00-4ea2-b1ff-7f0d5b859037)
 
 ---- 
 ## Mission 
+Philosopher, Spiritual Educator and Occaisional Professor of the Golden Age
 
 >I seek to educate and inspire others in order to help them live with more delight, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
 
 ## A Bit About Thea
 
---- 
 
 I am a person who worked in electrical, electronics, and software for my career, in parallel with being a student of metaphysics, mysticism and history.
 
@@ -98,13 +98,11 @@ Ontario, Canada
  - 2007 California
  - 2008 Scotland & Northern England 
  - 2009 Beijing, Central Tibet
- - 2010 Arizona
- - 2011 Arizona
+ - 2010, 2011 Arizona
  - 2012 New Mexico, Massachusetts
  - 2013 New Mexico, Colorado, Arizona, Pennsylvania
- - 2014 Chicago
- - 2015 Sedona, Arizona
+ - 2014, 2015 Sedona, Arizona
  - 2016 --
- - 2017 Scotland, HIghlands, Outer Hebrides, Canadian Maritimes
+ - 2017 Scotland, Highlands, Outer Hebrides, Canadian Maritimes
  - 2018 Cape Breton Island
 
