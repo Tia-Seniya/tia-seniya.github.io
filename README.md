@@ -19,8 +19,8 @@ I am a person who worked in electrical, electronics, and software for my career,
 Technology attracted me since I viewed it is a series of mysteries, and once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parellel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
 
 ### Find me on Social Media
- - [Youtube](www.youtube.com/@xenia_42)
- - [X/Twitter](www.x.com/@t5fh8gtyy4)
+ - [Youtube](https://www.youtube.com/@xenia_42)
+ - [X/Twitter](https://www.x.com/@t5fh8gtyy4)
 ---  
 
 ### Curriculum Vitae
