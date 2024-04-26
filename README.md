@@ -22,79 +22,76 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - [Youtube](https://www.youtube.com/@xenia_42)
  - [X/Twitter](https://www.x.com/@t5fh8gtyy4)
 ---  
+### Spiritial Teachings
 
-### Curriculum Vitae
+#### Received from:
 
-#### Work Experience
+ - Carlos Castenada - Don Juan Series
+ - Denning & Philips - Practical Guides
+ - Śivananda Radha - Yasodhara Ashram
+ - Bodhinatha Veylanswami - Himalayan Academy Master Course
+ - Kelsang Gyatso - New Kadampa Tradition
+ - SN Goenka - Vipassana Society
+ - Śivapremananda - Śri Vidya Sadhana
+ - Sthaneshwar Timalsina - Vimarsha Foundation
+ - Devandra Vignani
+ - Philip Carr-Gomm
+ - Cyndi Brannen
+ - Michael Singer
+ - Jason Miller - Strategic Sorcery
 
-###### Some Chubby Guy
-Plumber's Assistant
+#### Spiritual Studies
 
-###### Canadian Armed Forces
-Soldier
-Electronics/Network Troubleshooting & Repair
-
-###### Independent Electronics Supplier
-Electronics Subassembly Test & Repair
-
-###### General Electric Drive Control Systems Division
-Control System Testing
-Pneumatic Controls Quality Control
-Power Switching Quality Control
-
-##### General Electric Nuclear Products Division
-Senior Lab Technician
-Engineering Assistant
-
-##### Ontario Power Generation, Inc 
-DNGD Nuclear Power Station
-Software Quality Assurance
-Reactor Fueling Computer Maintenance Consultant
-Design & Rehabilitation Fueling Controls Systems
-Project Leader Fueling Controls Systems Replacement Project
-
-#### Formal
-###### Anglican Christianity
-
-Ontario, Canada
-1971
-###### Canadian Public Education
-
-Ontario, Canada
-1963-1975
-##### Military Training
-
- - 1972  Cadet Leadership
- - 1973  Army Reserve
- - 1975  Regular Forces Basic Nova Scotia, Canada
-
-##### Canadian Forces Communications and Electrical Engineering
-
-Ontario, Canada
- - 1975-1976  Communications Terminal Equiment Techician
- - 1977      Communications Network Operation
-
-##### Electronic Engineering Technology
-
-1978-1980 Fleming College, Ontario, Canada
-
-##### Psychology and Computers
-
- - 1993-1997 Trent UNiversity, Ontario, Canada
-
---- 
-#### Self Directed  
-
+ - 1970 Anglican Christianity
  - 1974 Egyptian Magick. 
  - 1974 Yaqui Shamanism  
- - 1982 Western Esoteric Tradition - self-directed & via AMORC  
- - 1981-1982 Wesern Astrology - British School of Astrology  
- - 1983-1984 American Indigenous History and Culture  
+ - 1982 Western Esoteric Tradition - self-directed (Denning & Philips-GOlden Dawn)
+ - 1981-1982 Western Astrology - British School of Astrology  
+ - 1983-1984 American Indigenous History and Culture
+ - 1984 Ancient and Mystical Order Rosae Crucis
+ - 1985: Witchcraft - Seax Wicca
  - 2002 Hatha & Laya Yoga - Yasodhara Ashram  
  - 2002- present Sanatan Dharma. 
  - 2003-2004 Shaiva Siddhanta - Himalayan Academy  
  - 2006 Teacher of Buddhism - New Kadampa Tradition  
- - 2006-2009 Vajrayana & other Mahayana, Theravda Buddhism  
+ - 2006-2009 Vajrayana & other Mahayana, Theravda Buddhism
+ - 2017-2108 - Druidry - Order of Bards, Ovates and Druids
+ - 2019 Witchcraft - The Coven of Hecate
+ - 2021 Sorcery - Strategic Sorcery, Jason Miller
+ - 2021 Chaos Magick - Jason Louv
+
+### Other Studies
+
+ - Journalism - Newspaper Insitiute of America
+ - Interior Design - Grantham Institute
+
+#### Work Experience
+
+ - Plumber's Assistant
+ - Sweeper
+ - Industrial Machine Operator
+ - Fork Lift Driver
+ - Digger Operator
+ - Soldier
+ - Military Communications Terminal Electronics Maintenance
+ - Military Network TCOmmunnication and Encrtption Maintenance & Repair
+ - Electronics Subassembly Quality Contro & Repair
+ - Industrial Control System and Power Conversion Testing & Repait
+ - Pneumatic Controls Quality Control
+ - Power Switching Quality Control
+ - Senior Nuclear Control and Manufactiring Lab Technician
+ - Safety Related software maintenance
+ - Nuclear Reactor Maintence Tooling SOftware Development & Commissioning
+ - Software Quality Assurance
+ - Reactor Fueling Computer Maintenance Consultant
+ - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
+ - Project Leader Fueling Controls Systems Replacement Project
+
+#### Avocations
+
+ - Gardening
+ - Language - Ancient and Modern
+
 --- 
 #### Travels
 
@@ -107,7 +104,6 @@ Ontario, Canada
  - 2012 New Mexico, Massachusetts
  - 2013 New Mexico, Colorado, Arizona, Pennsylvania
  - 2014, 2015 Sedona, Arizona
- - 2016 --
  - 2017 Scotland, Highlands, Outer Hebrides, Canadian Maritimes
  - 2018 Cape Breton Island
 
