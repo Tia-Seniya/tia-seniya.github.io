@@ -20,12 +20,15 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
 
 ### Find me on Social Media
  - [Youtube](https://www.youtube.com/@xenia_42)
- - [X/Twitter](https://www.x.com/@t5fh8gtyy4)
----  
-### Spiritial Teachings
+ - [X/Twitter](https://www.x.com/TheaSeniya)
+ - [TikTok](https://www.tiktok.com/@tia_seniya)
+  
+### Spiritial Studies
 
 #### Received from:
 
+ - Anglican Church of Canada
+ - Universal Life Church
  - Carlos Castenada - Don Juan Series
  - Denning & Philips - Practical Guides
  - Śivananda Radha - Yasodhara Ashram
@@ -39,6 +42,10 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - Cyndi Brannen
  - Michael Singer
  - Jason Miller - Strategic Sorcery
+ - Jasin Louv - Chaos Magick
+ - Aaron Solh - Mysticism
+ - Raja Choudury
+ - Self-Realization Fellowship
 
 #### Spiritual Studies
 
@@ -50,20 +57,33 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - 1983-1984 American Indigenous History and Culture
  - 1984 Ancient and Mystical Order Rosae Crucis
  - 1985: Witchcraft - Seax Wicca
- - 2002 Hatha & Laya Yoga - Yasodhara Ashram  
+ - 2002 Hatha & Kundalini Yoga - Yasodhara Ashram  
  - 2002- present Sanatan Dharma. 
- - 2003-2004 Shaiva Siddhanta - Himalayan Academy  
+ - 2003-2004 Shaiva Siddhanta - Himalayan Academy
+ - 2005 Advaita Vedanta - Arsha Vidya Gurukulam
  - 2006 Teacher of Buddhism - New Kadampa Tradition  
  - 2006-2009 Vajrayana & other Mahayana, Theravda Buddhism
  - 2017-2108 - Druidry - Order of Bards, Ovates and Druids
  - 2019 Witchcraft - The Coven of Hecate
  - 2021 Sorcery - Strategic Sorcery, Jason Miller
  - 2021 Chaos Magick - Jason Louv
+ - 2022 Kundalini Yoga - Raja Choudhury
+   
+
+#### Healing
+ - Spring Forest Qi Gong - Mr Yutang Lin
+ - Reiki - Usui Ryoho Reiki Association
 
 ### Other Studies
 
  - Journalism - Newspaper Insitiute of America
  - Interior Design - Grantham Institute
+ - Vedic Astrology - Kapiel Raaj
+ - Alternative Communities
+ - Sculpture in Caly
+ - Making Movies - production, equipment, Editing & acting
+ - Inequality - SCANS
+ - Politics - 
 
 #### Work Experience
 
@@ -90,12 +110,37 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
 #### Avocations
 
  - Gardening
- - Language - Ancient and Modern
-
---- 
+ - Languages - Ancient and Modern
+     -History of the English Language - The Great Courses
+    - Tibetan, The Diamond Cutter Institute
+    - French, DuoLingo
+	   - Russian, DuoLingo
+	   - Portuguese, DuoLingo
+	   - Sanskrit, Self-directed
+	   - Hindi, Self-Directed & DuoLingo
+	   - Chinese, DuoLingo
+	   - Arabic, DuoLingo
+	   - Welsh, DuoLingo
+	   - Scots Gaelic, DuoLingo
+		   - Vietnamese, DuoLingo
+		   - Spanish, DuoLingo
+		   - German, DuoLingo
+		   - Romanian, DuoLingo
+		   - Greek, DuoLingo
+		   - Korean, DuoLingo
+		   - Latin, DuoLingo
+		   - Dutch, DuoLingo
+		   - Swedish, DuoLingo
+		   - Czech, DuoLingo
+		   - Nepali
+		   - Swedish, DuoLingo
+		   - Hungarian, DuoLingo
+		   - Hawaian, DuoLingo
+       
 #### Travels
 
  - 1969 England
+ - 1976, 1977 Alberta Canada
  - 2003 USA Northeast
  - 2007 California
  - 2008 Scotland & Northern England 
@@ -106,4 +151,6 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - 2014, 2015 Sedona, Arizona
  - 2017 Scotland, Highlands, Outer Hebrides, Canadian Maritimes
  - 2018 Cape Breton Island
+
+
 
