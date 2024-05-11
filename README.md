@@ -6,7 +6,7 @@ This Site is Under Construction
 
 ---- 
 ## Mission 
-Philosopher, Spiritual Educator and Occasional Professor of the Golden Age
+End Fascism - restore the Biosphere and support Freedom
 
 >I seek to educate and inspire others in order to help them live with more delight, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
