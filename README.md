@@ -16,7 +16,7 @@ End Fascism - restore the Biosphere and support Freedom
 
 I am a person who worked in electrical, electronics, and software for my career, in parallel with being a student of metaphysics, mysticism and history.
 
-Technology attracted me since I viewed it is a series of mysteries, and once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parellel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
+Technology attracted me since I saw it is a series of mysteries, and thought once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parallel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
 
 ### Find me on Social Media
  - [Youtube](https://www.youtube.com/@xenia_42)
@@ -42,7 +42,8 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - Cyndi Brannen
  - Michael Singer
  - Jason Miller - Strategic Sorcery
- - Jasin Louv - Chaos Magick
+ - Jasin Louv - Chaos Magick, The Adept Initiative
+ - Śunyamuti
  - Aaron Solh - Mysticism
  - Raja Choudury
  - Self-Realization Fellowship
@@ -56,32 +57,40 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - 1981-1982 Western Astrology - British School of Astrology  
  - 1983-1984 American Indigenous History and Culture
  - 1984 Ancient and Mystical Order Rosae Crucis
- - 1985: Witchcraft - Seax Wicca
+ - 1985 Witchcraft - Seax Wicca
+ - 1986 Spirit channeling
  - 2002 Hatha & Kundalini Yoga - Yasodhara Ashram  
- - 2002- present Sanatan Dharma. 
- - 2003-2004 Shaiva Siddhanta - Himalayan Academy
+ - 2002-present Sanatan Dharma. 
+ - 2003-2004 Shaiva Siddhanta - Himalayan Academy Master course
  - 2005 Advaita Vedanta - Arsha Vidya Gurukulam
  - 2006 Teacher of Buddhism - New Kadampa Tradition  
  - 2006-2009 Vajrayana & other Mahayana, Theravda Buddhism
+ - 2007 Vajrayana (Tibetan) buddhism - The Diamond Cutter Institute
  - 2017-2108 - Druidry - Order of Bards, Ovates and Druids
  - 2019 Witchcraft - The Coven of Hecate
- - 2021 Sorcery - Strategic Sorcery, Jason Miller
+ - 2021 Sorcery - Jason Miller
  - 2021 Chaos Magick - Jason Louv
  - 2022 Kundalini Yoga - Raja Choudhury
-   
+ - 2023 Initiation into sadhana of Batuk Bhairava, Rajamatañgi
+ - 2023 Intro to Sarvāmnāya tantra - Vimarsha Foundation
+ - 2024 Foundational Śaivism - Vimarsha Foundation
+ - 2024 Adept Initiative -Jason Louv
+ - 2024 The Bhagavad Gītā: Ancient Commentaries, Modern Perspectives - Vimarsha Foundation
 
 #### Healing
  - Spring Forest Qi Gong - Mr Yutang Lin
  - Reiki - Usui Ryoho Reiki Association
+ - Herbology - Wildrose College of Natural Healing
 
 ### Other Studies
 
  - Journalism - Newspaper Insitiute of America
  - Interior Design - Grantham Institute
- - Vedic Astrology - Kapiel Raaj
- - Alternative Communities
- - Sculpture in Caly
- - Making Movies - production, equipment, Editing & acting
+ - Fenf Shui Interior Design - Loyalist College
+ - Vedic Astrology - Kapiel Raaj, etc
+ - Intentional Communities
+ - Sculpture in Clay
+ - Making Movies - production, equipment, editing & acting
  - Inequality - SCANS
  - Politics - 
 
@@ -110,6 +119,7 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
 #### Avocations
 
  - Gardening
+ - History, Ancient
  - Languages - Ancient and Modern
      -History of the English Language - The Great Courses
     - Tibetan, The Diamond Cutter Institute
@@ -149,7 +159,7 @@ Technology attracted me since I viewed it is a series of mysteries, and once I u
  - 2012 New Mexico, Massachusetts
  - 2013 New Mexico, Colorado, Arizona, Pennsylvania
  - 2014, 2015 Sedona, Arizona
- - 2017 Scotland, Highlands, Outer Hebrides, Canadian Maritimes
+ - 2017 Scotland- Highlands, Outer Hebrides, Canadian Maritimes
  - 2018 Cape Breton Island
 
 
