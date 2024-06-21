@@ -161,8 +161,8 @@ Technology attracted me since it was a mystery to me. I thought if I solved it, 
  - 2010, 2011 Arizona
  - 2012 New Mexico, Massachusetts
  - 2013 New Mexico, Colorado, Arizona, Pennsylvania
- - 2014, 2015 Sedona, Arizona
- - 2017 Scotland- Highlands, Outer Hebrides, Canadian Maritimes
+ - 2014, 2015 Arizona; New Zealand, Hawai'i
+ - 2017 Scotland: Highlands, Outer Hebrides; Canadian Maritimes
  - 2018 Cape Breton Island
 
 
