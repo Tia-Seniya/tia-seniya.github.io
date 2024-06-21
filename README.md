@@ -44,7 +44,7 @@ Technology attracted me since it was a mystery to me. I thought if I solved it, 
  - Michael Singer
  - Jason Miller - Strategic Sorcery
  - Jasin Louv - Chaos Magick, The Adept Initiative
- - Śunyamuti
+ - Śunyamurti
  - Aaron Solh - Mysticism
  - Raja Choudury
  - Self-Realization Fellowship
@@ -53,7 +53,6 @@ Technology attracted me since it was a mystery to me. I thought if I solved it, 
 
  - 1970 Anglican Christianity
  - 1974 Egyptian Magick. 
- - 1974 Yaqui Shamanism  
  - 1982 Western Esoteric Tradition - self-directed (Denning & Philips-GOlden Dawn)
  - 1981-1982 Western Astrology - British School of Astrology  
  - 1983-1984 American Indigenous History and Culture
@@ -77,6 +76,7 @@ Technology attracted me since it was a mystery to me. I thought if I solved it, 
  - 2024 Foundational Śaivism - Vimarsha Foundation
  - 2024 Adept Initiative -Jason Louv
  - 2024 The Bhagavad Gītā: Ancient Commentaries, Modern Perspectives - Vimarsha Foundation
+ - Shamanism 
 
 #### Healing
  - Spring Forest Qi Gong - Mr Yutang Lin
