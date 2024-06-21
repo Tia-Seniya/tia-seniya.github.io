@@ -27,7 +27,7 @@ Technology attracted me since I saw it is a series of mysteries, and thought onc
 
 #### Received from:
 
- - Anglican Church of Canada
+ - Anglican Church
  - Universal Life Church
  - Carlos Castenada - Don Juan Series
  - Denning & Philips - Practical Guides
@@ -92,11 +92,10 @@ Technology attracted me since I saw it is a series of mysteries, and thought onc
  - Sculpture in Clay
  - Making Movies - production, equipment, editing & acting
  - Inequality - SCANS
- - Politics - 
+ - Politics - multiple Marxist sources
 
 #### Work Experience
 
- - Plumber's Assistant
  - Sweeper
  - Industrial Machine Operator
  - Fork Lift Driver
@@ -119,33 +118,36 @@ Technology attracted me since I saw it is a series of mysteries, and thought onc
 #### Avocations
 
  - Gardening
+ - Cooking
+ - DIY (maybe more of a chore than a hobby)
  - History, Ancient
  - Languages - Ancient and Modern
      -History of the English Language - The Great Courses
     - Tibetan, The Diamond Cutter Institute
-    - French, DuoLingo
-	   - Russian, DuoLingo
-	   - Portuguese, DuoLingo
+    - French, and others on DuoLingo, etc:
+	   - Russian, 
+	   - Portuguese,
 	   - Sanskrit, Self-directed
-	   - Hindi, Self-Directed & DuoLingo
-	   - Chinese, DuoLingo
-	   - Arabic, DuoLingo
-	   - Welsh, DuoLingo
-	   - Scots Gaelic, DuoLingo
-		   - Vietnamese, DuoLingo
-		   - Spanish, DuoLingo
-		   - German, DuoLingo
-		   - Romanian, DuoLingo
-		   - Greek, DuoLingo
-		   - Korean, DuoLingo
-		   - Latin, DuoLingo
-		   - Dutch, DuoLingo
-		   - Swedish, DuoLingo
-		   - Czech, DuoLingo
-		   - Nepali
-		   - Swedish, DuoLingo
-		   - Hungarian, DuoLingo
-		   - Hawaian, DuoLingo
+	   - Hindi, Self-Directed
+           - Pali, Self-directed
+	   - Chinese, 
+	   - Arabic, 
+	   - Welsh, 
+	   - Scots Gaelic,
+           - Vietnamese, 
+		   - Spanish, 
+		   - German, 
+		   - Romanian, 
+		   - Greek, 
+		   - Korean, 
+		   - Latin, 
+		   - Dutch, 
+		   - Swedish, 
+		   - Czech, 
+		   - Nepali, self- directed
+		   - Swedish, 
+		   - Hungarian, 
+		   - Hawaian
        
 #### Travels
 
