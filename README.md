@@ -1,22 +1,23 @@
 tia-seniya.github.io
 This Site is Under Construction
 
-# Website of Thea Seniya  
+# Thea Seniya  
 ![IMG_7105](https://github.com/Tia-Seniya/tia-seniya.github.io/assets/166879066/67d179d2-6d00-4ea2-b1ff-7f0d5b859037)
 
 ---- 
 ## Mission 
-End Fascism - restore the Biosphere and support Freedom
+Support liberty, equality, kindness, and intelligence.
 
 >I seek to educate and inspire others in order to help them live with more delight, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
 
 ## A Bit About Thea
 
+(she/her)
 
-I am a person who worked in electrical, electronics, and software for my career, in parallel with being a student of metaphysics, mysticism and history.
+I've worked with electricty, computers, controls and projects for money, in parallel with being a perennial student of metaphysics, mysticism and history.
 
-Technology attracted me since I saw it is a series of mysteries, and thought once I unraveled it, I could do fun stuff with it. I've always liked building things and improving them. The subjects of my parallel DIY-learning track called to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able one day to create something unforgettable, and possibly wonderful.
+Technology attracted me since it was a mystery to me. I thought if I solved it, I could do fun stuff with it. I've always liked building things and improving them. My unpaid explorations call to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able to, one day, create something unforgettable and wonderful.
 
 ### Find me on Social Media
  - [Youtube](https://www.youtube.com/@xenia_42)
