@@ -104,7 +104,7 @@ Technology attracted me since it was a mystery to me. I thought if I solved it, 
  - Soldier
  - Military Communications Terminal Electronics Maintenance
  - Military Network TCOmmunnication and Encrtption Maintenance & Repair
- - Electronics Subassembly Quality Contro & Repair
+ - Electronics Subassembly Quality Control & Repair
  - Industrial Control System and Power Conversion Testing & Repait
  - Pneumatic Controls Quality Control
  - Power Switching Quality Control
