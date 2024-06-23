@@ -95,6 +95,7 @@ Technology attracted me since it contained a mystery. My unpaid explorations cal
  - Organic gardening, developing a food forest
  - Cooking
  - Vedic astrology
+ - Learning more about spirituality
  - History, Ancient
  - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese ,Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
