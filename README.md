@@ -15,9 +15,14 @@ Support liberty, equality, kindness, and intelligence.
 
 (she/her)
 
-I've worked with electricty, computers, controls and projects for money, in parallel with being a perennial student of metaphysics, mysticism, languages and history.
+My name is Thea Seniya and I am a retired tecchie, originally from south central Canada. I received my technical education in engineering via the military, College and University in Canada. I worked in quality assurance and engineering for a multinational for about 20 years, then for about the same at a nuke plant at which I had protested when its ground was first broken. After an extended quest to improve the things provided by suppliers to the power station, I took early retirement in order to seek a return to sanity.
 
-Technology attracted me since it contained a mystery. My unpaid explorations call to me in the same way, with the promise of unravelling Secrets of the Universe, and maybe being able to, one day, create something unforgettable and wonderful.
+I moved to Maritime Canada in 2017 with my partner and settled near Halifax, then we unsettled to a remote location by the sea, and 3 years ago, to another oceanside place, a bit closer to amenities
+ I am an autodidact with a fascination with the esoteric. My interests include the anthropology of Asia, and the systems of spiritual  development that evolved in those regions; in the study of religion, magic, witchcraft, and neo-shamanism(s).
+
+I like history, megalithic sites, ancient ruins, folklore, geo-political current events, Vedic astrology, personality revelation systems (MBTI, Human Design, etc), yogas, alternative healing modalities, divination, spirits (fermented and disembodied), languages, feng shui, design, sculpture, cooking, organic gardening (incl permaculture & food forest creation).  I’ve been fortunate to have been able to travel to parts of Britain, the USA, Beijing, central Tibet, Polynesia, New Zealand and Fukushima Japan.
+
+My unpaid explorations call to me in the same way as technology did, a long time ago, with the promise of unravelling Secrets, and maybe being able to, one day, create something unforgettable and wonderful.
 
 ### Find me on Social Media
  - [Youtube](https://www.youtube.com/@xenia_42)
@@ -25,67 +30,42 @@ Technology attracted me since it contained a mystery. My unpaid explorations cal
  - [TikTok](https://www.tiktok.com/@tia_seniya)
   
 ### Spiritial Studies
- - 1970 Anglican Christianity
- - 1974 Egyptian Magick. 
- - 1982 Western Esoteric Tradition 
- - 1981 Western Astrology
- - 1982 Occult
- - 1983 American Indigenous History and Culture
- - 1984 Rosicrucianism
- - 1985 Wicca
- - 1986 Spirit channeling
- - 2002 Hatha & Kundalini Yoga 
- - 2003-2004 Shaiva Siddhanta 
- - 2005 Advaita Vedanta 
- - 2006 Teaching Buddhism
- - 2006-2009 Major schools of Buddhism
- - 2008 Gnosticism
- - 2017-2108 - Druidry
- - 2019 Hecatean Witchcraft 
- - 2021 Sorcery
- - 2021 Chaos Magick 
- - 2022 Kundalini Yoga 
- - 2023 Sadhana of Batuk Bhairava & Rajamatañgi
- - 2023 Sarvāmnāya tantra
- - 2024 Foundational Śaivism
- - 2024 The Bhagavad Gītā: Ancient Commentaries, Modern Perspectives
- - Shamanism: American Indigenous, north European, Asian
+Christianity, Egyptian Magick, Western Esoteric Tradition, Western Astrology, Occult, American Indigenous History and Culture, Rosicrucianism, Wicca, Spirit channeling, Hatha & Kundalini Yoga, Shaiva Siddhanta, Advaita Vedanta, Teaching Buddhism, Major schools of Buddhism, Gnosticism, Druidry, Operational Magick, Hecatean Witchcraft, Sorcery, Chaos Magick, Kashmiri Shaivism,  Kundalini Yoga, Sri Vidya, Sarvāmnāya tantra, Foundational Śaivism, Shamanism: American Indigenous, north European, Asian
 
 #### Healing
- - Qi Gong
- - Reiki
- - Herbology
- - EFT
+Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 
 ### Other Studies
 
- - Journalism
- - Interior Design
- - Feng Shui Interior Desig
- - Vedic Astrology
- - Intentional Communities
- - Sculpture
- - Movie Making
- - Politics
- - Past Life Regression Hypnosis
- - Tarot, Runes, I Ching
+Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
 
 #### Work Experience
+###General
+Sweeper, Factory worker, Retail, Construction worker
 
- - Sweeper
- - Factory worker
- - Construction worker
- - Soldier
+###Military
  - Military Communications Terminal Electronics Maintenance
- - Military Network Communication and Encrtption Maintenance & Repair
+ - PABX maintenance
+ - Military Network Communication and Encrytption equipment maintenance & repair
+ - Communications network maintenace
+   
+###Factory Work
  - Electronics Subassembly Quality Control & Repair
  - Industrial Control System and Power Conversion Testing & Repait
  - Pneumatic Controls Quality Control
  - Power Switching Quality Control
  - Senior Nuclear Control and Manufactiring Lab Technician
- - Safety Related software maintenance
- - Nuclear Reactor Maintence Tooling SOftware Development & Commissioning
+ - MIG welder maintenance
+ - Helium mass spectrometer maintenance and use
+ - High frequency metal annealing equipment
+   
+ ###Engineering
+ - Safety Related software development and maintenance
+ - Nuclear Reactor Maintence Tooling Software Development & Commissioning
  - Software Quality Assurance
+ - Engineering drawings
+ - Technical writing
+ - Quality Standards development and application
  - Reactor Fueling Computer Maintenance Consultant
  - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
  - Project Leader Fueling Controls Systems Replacement Project
@@ -102,8 +82,9 @@ Technology attracted me since it contained a mystery. My unpaid explorations cal
 ### Other Skills
 
 - Web Design
-- Mechanics, auto, motorcycle
-- Construction
+- Mechanics: auto, motorcycle
+- Basic Plumbing
+- Home Construction
 
 ### Travel
 
