@@ -70,13 +70,14 @@ Sweeper, Factory worker, Retail, Construction worker
  - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
  - Project Leader Fueling Controls Systems Replacement Project
 
-#### Avocations
+#### Avocations & Interests
 
  - Organic gardening, developing a food forest
  - Cooking
  - Vedic astrology
  - Learning more about spirituality
- - History, Ancient
+ - History
+ - Archaeology
  - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese ,Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
 ### Other Skills
@@ -92,11 +93,10 @@ Some places I've been to outside Canada:
 - England
 - USA Northeast
 - San Francisco, California
-- Scotland & Northern England 
+- Northern England & Scotland ( incluiding Highlands, Orkney & Outer Hebrides) 
 - Beijing, Central Tibet
 - Arizona, New Mexico, Colorado, Arizona,
 - Aukland, New Zealand, Hawai'i,
-- Scotland (Highlands, Outer Hebrides) 
 
 ### Schools with Buildings
 
