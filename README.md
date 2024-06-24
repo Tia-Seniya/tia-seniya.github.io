@@ -40,16 +40,16 @@ Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
 
 #### Work Experience
-###General
+### General
 Sweeper, Factory worker, Retail, Construction worker
 
-###Military
+### Military
  - Military Communications Terminal Electronics Maintenance
  - PABX maintenance
  - Military Network Communication and Encrytption equipment maintenance & repair
  - Communications network maintenace
    
-###Factory Work
+### Factory Work
  - Electronics Subassembly Quality Control & Repair
  - Industrial Control System and Power Conversion Testing & Repait
  - Pneumatic Controls Quality Control
@@ -59,7 +59,7 @@ Sweeper, Factory worker, Retail, Construction worker
  - Helium mass spectrometer maintenance and use
  - High frequency metal annealing equipment
    
- ###Engineering
+ ### Engineering
  - Safety Related software development and maintenance
  - Nuclear Reactor Maintence Tooling Software Development & Commissioning
  - Software Quality Assurance
