@@ -52,8 +52,10 @@ Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intenti
 #### Virtual
  - Mind Valley
  - Vimarsha Foundation
- - 
+
+
 ## Work Experience
+
 ### General
 Cleaner, factory work, retail, excavator operator
 
@@ -74,6 +76,8 @@ Cleaner, factory work, retail, excavator operator
  - MIG welder maintenance
  - Helium mass spectrometer maintenance and use
  - High frequency metal annealing equipment
+
+
 ### Engineering
  - Safety Related software development and maintenance
  - Nuclear Reactor Maintence Tooling Software Development, Testing & Commissioning
@@ -85,7 +89,7 @@ Cleaner, factory work, retail, excavator operator
  - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
  - Project Leader Fueling Controls Systems Replacement Project
 
-## Avocations & Interests
+## Avocations
 
  - Organic gardening, developing a food forest
  - Cooking
@@ -95,7 +99,7 @@ Cleaner, factory work, retail, excavator operator
  - Archaeology
  - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese ,Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
-#### Travel
+### Travels
 
 Some places I've been to outside Canada:
 - England
