@@ -40,7 +40,7 @@ Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intenti
 
 #### Work Experience
 ### General
-Sweeper, machine operator, lift truck driver, retail, excavator operator
+Cleaner, factory work, retail, excavator operator
 
 ### Military
  - Military Communications Terminal Electronics Maintenance
@@ -49,6 +49,8 @@ Sweeper, machine operator, lift truck driver, retail, excavator operator
  - Communications network maintenace
    
 ### Factory Work
+ - Machine operator
+ - Lift truck driver
  - Electronics Subassembly Quality Control & Repair
  - Industrial Control System and Power Conversion Testing & Repait
  - Pneumatic Controls Quality Control
@@ -60,7 +62,7 @@ Sweeper, machine operator, lift truck driver, retail, excavator operator
    
  ### Engineering
  - Safety Related software development and maintenance
- - Nuclear Reactor Maintence Tooling Software Development & Commissioning
+ - Nuclear Reactor Maintence Tooling Software Development, Testing & Commissioning
  - Software Quality Assurance
  - Engineering drawings
  - Technical writing
