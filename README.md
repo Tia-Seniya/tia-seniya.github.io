@@ -59,8 +59,7 @@ Cleaner, factory work, retail, excavator operator
  - MIG welder maintenance
  - Helium mass spectrometer maintenance and use
  - High frequency metal annealing equipment
-   
- ### Engineering
+### Engineering
  - Safety Related software development and maintenance
  - Nuclear Reactor Maintence Tooling Software Development, Testing & Commissioning
  - Software Quality Assurance
