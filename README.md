@@ -2,6 +2,7 @@ tia-seniya.github.io
 This Site is Under Construction
 
 # Thea Seniya  
+(she/her)
 ![IMG_7105](https://github.com/Tia-Seniya/tia-seniya.github.io/assets/166879066/67d179d2-6d00-4ea2-b1ff-7f0d5b859037)
 
 ---- 
@@ -12,8 +13,6 @@ Support liberty, equality, kindness, and intelligence.
 --- 
 
 ## A Bit About Thea
-
-(she/her)
 
 My name is Thea Seniya and I am a retired tecchie, originally from south central Canada. I received my technical education in engineering via the military, College and University in Canada. I worked in quality assurance and engineering for a multinational for about 20 years, then for about the same at a nuke plant at which I had protested when its ground was first broken. After an extended quest to improve the things provided by suppliers to the power station, I took early retirement in order to seek a return to sanity.
 
@@ -29,7 +28,7 @@ My unpaid explorations call to me in the same way as technology did, a long time
  - [X/Twitter](https://www.x.com/TheaSeniya)
  - [TikTok](https://www.tiktok.com/@tia_seniya)
   
-### Spiritial Studies
+### Spiritual Studies
 Christianity, Egyptian Magick, Western Esoteric Tradition, Western Astrology, Occult, American Indigenous History and Culture, Rosicrucianism, Wicca, Spirit channeling, Hatha & Kundalini Yoga, Shaiva Siddhanta, Advaita Vedanta, Teaching Buddhism, Major schools of Buddhism, Gnosticism, Druidry, Operational Magick, Hecatean Witchcraft, Sorcery, Chaos Magick, Kashmiri Shaivism,  Kundalini Yoga, Sri Vidya, Sarvāmnāya tantra, Foundational Śaivism, Shamanism: American Indigenous, north European, Asian
 
 #### Healing
@@ -41,7 +40,7 @@ Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intenti
 
 #### Work Experience
 ### General
-Sweeper, Factory worker, Retail, Construction worker
+Sweeper, machine operator, lift truck driver, retail, excavator operator
 
 ### Military
  - Military Communications Terminal Electronics Maintenance
