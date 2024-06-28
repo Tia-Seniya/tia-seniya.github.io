@@ -38,11 +38,11 @@ Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 
 ### Others
 Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
-
 - Web Design
 - Mechanics: auto, motorcycle
 - Basic Plumbing
 - Home Construction
+
 ### Schools 
 #### Brick & Mortar
 - CF Schools of Communications and Electronics Engineering
