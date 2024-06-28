@@ -12,7 +12,7 @@ Support liberty, equality, kindness, and intelligence.
 >I seek to educate and inspire others in order to help them live with more delight, and to build community that will persist into a new era and be the foundation for a healthy and happy global society of the future. 
 --- 
 
-## A Bit About Thea
+### Background
 
 My name is Thea Seniya and I am a retired tecchie, originally from south central Canada. I received my technical education in engineering via the military, College and University in Canada. I worked in quality assurance and engineering for a multinational for about 20 years, then for about the same at a nuke plant at which I had protested when its ground was first broken. After an extended quest to improve the things provided by suppliers to the power station, I took early retirement in order to seek a return to sanity.
 
@@ -23,12 +23,12 @@ I like history, megalithic sites, ancient ruins, folklore, geo-political current
 
 My unpaid explorations call to me in the same way as technology did, a long time ago, with the promise of unravelling Secrets, and maybe being able to, one day, create something unforgettable and wonderful.
 
-### Find me on Social Media
+### Social Media Channels
  - [Youtube](https://www.youtube.com/@xenia_42)
  - [X/Twitter](https://www.x.com/TheaSeniya)
  - [TikTok](https://www.tiktok.com/@tia_seniya)
   
-#### Studies
+## Studies
 
 ### Spiritual
 Christianity, Egyptian Magick, Western Esoteric Tradition, Western Astrology, Occult, American Indigenous History and Culture, Rosicrucianism, Wicca, Spirit channeling, Hatha & Kundalini Yoga, Shaiva Siddhanta, Advaita Vedanta, Teaching Buddhism, Major schools of Buddhism, Gnosticism, Druidry, Operational Magick, Hecatean Witchcraft, Sorcery, Chaos Magick, Kashmiri Shaivism,  Kundalini Yoga, Sri Vidya, Sarvāmnāya tantra, Foundational Śaivism, Shamanism: American Indigenous, north European, Asian
@@ -38,22 +38,22 @@ Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 
 ### Others
 Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
-### Other Skills
+
 - Web Design
 - Mechanics: auto, motorcycle
 - Basic Plumbing
 - Home Construction
 ### Schools 
-## Brick & Mortar
+#### Brick & Mortar
 - CF Schools of Communications and Electronics Engineering
 - Fleming College - Electronics Engineering
 - Trent University - Computers, Psychology
 - Dhamma Toranna - Vipassana
-## Virtual
+#### Virtual
  - Mind Valley
  - Vimarsha Foundation
  - 
-#### Work Experience
+## Work Experience
 ### General
 Cleaner, factory work, retail, excavator operator
 
@@ -85,7 +85,7 @@ Cleaner, factory work, retail, excavator operator
  - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
  - Project Leader Fueling Controls Systems Replacement Project
 
-#### Avocations & Interests
+## Avocations & Interests
 
  - Organic gardening, developing a food forest
  - Cooking
