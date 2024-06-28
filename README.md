@@ -28,16 +28,31 @@ My unpaid explorations call to me in the same way as technology did, a long time
  - [X/Twitter](https://www.x.com/TheaSeniya)
  - [TikTok](https://www.tiktok.com/@tia_seniya)
   
-### Spiritual Studies
+#### Studies
+
+### Spiritual
 Christianity, Egyptian Magick, Western Esoteric Tradition, Western Astrology, Occult, American Indigenous History and Culture, Rosicrucianism, Wicca, Spirit channeling, Hatha & Kundalini Yoga, Shaiva Siddhanta, Advaita Vedanta, Teaching Buddhism, Major schools of Buddhism, Gnosticism, Druidry, Operational Magick, Hecatean Witchcraft, Sorcery, Chaos Magick, Kashmiri Shaivism,  Kundalini Yoga, Sri Vidya, Sarvāmnāya tantra, Foundational Śaivism, Shamanism: American Indigenous, north European, Asian
 
-#### Healing
+### Healing
 Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 
-### Other Studies
-
+### Others
 Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
-
+### Other Skills
+- Web Design
+- Mechanics: auto, motorcycle
+- Basic Plumbing
+- Home Construction
+### Schools 
+## Brick & Mortar
+- CF Schools of Communications and Electronics Engineering
+- Fleming College - Electronics Engineering
+- Trent University - Computers, Psychology
+- Dhamma Toranna - Vipassana
+## Virtual
+ - Mind Valley
+ - Vimarsha Foundation
+ - 
 #### Work Experience
 ### General
 Cleaner, factory work, retail, excavator operator
@@ -80,14 +95,7 @@ Cleaner, factory work, retail, excavator operator
  - Archaeology
  - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese ,Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
-### Other Skills
-
-- Web Design
-- Mechanics: auto, motorcycle
-- Basic Plumbing
-- Home Construction
-
-### Travel
+#### Travel
 
 Some places I've been to outside Canada:
 - England
@@ -98,11 +106,6 @@ Some places I've been to outside Canada:
 - Arizona, New Mexico, Colorado, Arizona,
 - Aukland, New Zealand, Hawai'i,
 
-### Schools with Buildings
 
-- CF Schools of Communications and Electronics Engineering
-- Fleming College - Electronics Engineering
-- Trent University - Computers, Psychology
-- Dhamma Toranna - Vipassana
 
 
