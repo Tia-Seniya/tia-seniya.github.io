@@ -72,22 +72,22 @@ Cleaner, factory work, retail, excavator operator
  - Industrial Control System and Power Conversion Testing & Repait
  - Pneumatic Controls Quality Control
  - Power Switching Quality Control
- - Senior Nuclear Control and Manufactiring Lab Technician
- - MIG welder maintenance
+ - Nuclear Control and Manufacturing Lab Technical support
+ - automated welding and reactor fuel channel cutting 
  - Helium mass spectrometer maintenance and use
  - High frequency metal annealing equipment
-
+ - PWR reactor core sectioning tooling control
 
 ### Engineering
- - Safety Related software development and maintenance
- - Nuclear Reactor Maintence Tooling Software Development, Testing & Commissioning
- - Software Quality Assurance
- - Engineering drawings
+ - Hazardous materials handling software development 
+ - Nuclear reactor maintence tooling software development
+ - Software quality assurance procedure development
+ - Engineering drawing cration
  - Technical writing
- - Quality Standards development and application
- - Reactor Fueling Computer Maintenance Consultant
- - Design & Rehabilitation Nuclear Reactor Fueling Controls Systems
- - Project Leader Fueling Controls Systems Replacement Project
+ - Quality Standards implementation
+ - Reactor fueling computer maintenance consultant
+ - Design & rehabilitation of nuclear reactor computerized controls systems
+ - Project management & design leader: Control room systems replacement 
 
 ## Avocations
 
