@@ -81,7 +81,7 @@ Cleaner, factory work, retail, excavator operator
  - Hazardous materials handling software development 
  - Nuclear reactor maintence tooling software development
  - Software quality assurance procedure development
- - Engineering drawing cration
+ - Engineering drawing creation
  - Technical writing
  - Quality Standards implementation
  - Reactor fueling computer maintenance consultant
