@@ -96,7 +96,7 @@ Cleaner, factory work, retail, excavator operator
  - Learning more about spirituality
  - History
  - Archaeology
- - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese ,Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
+ - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese, Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
 ### Travels
 
