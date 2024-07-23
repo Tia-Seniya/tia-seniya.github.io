@@ -62,8 +62,8 @@ Cleaner, factory work, retail, excavator operator
 ### Military
  - Military Communications Terminal Electronics Maintenance
  - PABX maintenance
- - Military Network Communication and Encrytption equipment maintenance & repair
- - Communications network maintenace
+ - Encryption equipment maintenance
+ - Communications network maintenance
    
 ### Factory Work
  - Industrial machine operation
@@ -72,10 +72,10 @@ Cleaner, factory work, retail, excavator operator
  - Pneumatic controls quality assurance
  - Power Switching Quality assurance
  - Nuclear Control and Manufacturing Lab Technical support
- - automated welding and reactor fuel channel cutting 
- - Helium mass spectrometer maintenance and use
+ - Automated reactor fuel channel cutting & welding equipment 
+ - Helium mass spectrometer operation & maintenance
  - High frequency metal annealing equipment
- - PWR reactor core sectioning tooling control
+ - Atomic reactor core sectioning tooling control development
 
 ### Engineering
  - Hazardous materials handling software development 
