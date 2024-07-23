@@ -102,12 +102,11 @@ Cleaner, factory work, retail, excavator operator
 
 Some places I've been to outside Canada:
 - England
-- USA Northeast
+- USA Northeast and Southwest
 - San Francisco, California
-- Northern England & Scotland ( incluiding Highlands, Orkney & Outer Hebrides) 
+- Northern England & Scotland (including Orkney & Outer Hebrides) 
 - Beijing, Central Tibet
-- Arizona, New Mexico, Colorado, Arizona,
-- Aukland, New Zealand, Hawai'i,
+- New Zealand, Hawai'i,
 
 
 
