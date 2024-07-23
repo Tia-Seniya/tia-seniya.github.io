@@ -66,12 +66,11 @@ Cleaner, factory work, retail, excavator operator
  - Communications network maintenace
    
 ### Factory Work
- - Machine operator
- - Lift truck driver
- - Electronics Subassembly Quality Control & Repair
- - Industrial Control System and Power Conversion Testing & Repait
- - Pneumatic Controls Quality Control
- - Power Switching Quality Control
+ - Industrial machine operation
+ - Electronic subassembly quality assurance 
+ - Industrial sontrol system and power conversion testing
+ - Pneumatic controls quality assurance
+ - Power Switching Quality assurance
  - Nuclear Control and Manufacturing Lab Technical support
  - automated welding and reactor fuel channel cutting 
  - Helium mass spectrometer maintenance and use
