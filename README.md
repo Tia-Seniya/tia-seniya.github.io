@@ -16,16 +16,11 @@ Support liberty, equality, kindness, and intelligence.
 
 I am a retired computer nerd, living in Nova Scotia. I worked in quality assurance and engineering for a multinational, then for a long stint at a nuke plant at which I had protested when its ground was first broken. While there, I challenged suppliers to deliver things to the highest international standards. After being able to make a significant improvement, I entered retirement where I've been focussing on quiet contemplation and inner peace.
 
-I moved to the east coast with my wife and settled near a city, then we unsettled to a remote location by the sea, and 3 years ago, to another oceanside place, a bit closer to amenities. I am an autodidact with a fascination with the esoteric. I've been drawn to study Asia and its spirituality, magic, neo-shamanism, and of course Druidry.
+I moved to the east coast with my wife and settled near a city, then we unsettled to a remote location by the sea, and 3 years ago, to another oceanside place, a bit closer to amenities. I am an autodidact with a fascination with the esoteric. I've been drawn to study Asia and its spirituality, magic, neo-shamanism, and south Asian dharma.
 
-I like history, megalithic sites, ancient ruins, folklore, Vedic astrology, yogas, alternative healing modalities, divination, languages, feng shui, sculpture, cooking, and organic gardening. I’ve been fortunate to have been able to travel to parts of Britain, the USA, Beijing, central Tibet, Polynesia, New Zealand and Fukushima Japan.
+I like history, megalithic sites, ancient ruins, folklore, Vedic astrology, yogas, alternative healing modalities, divination, languages, feng shui, sculpture, cooking, and permaculture-ish gardening (formerly keenon deer until I had them). I’ve been fortunate to have been able to travel to parts of Britain, the USA, northern China (including Tibet), Polynesia, New Zealand and Fukushima Japan.
 
 My explorations call to me with the promise of unravelling secrets and maybe being able to, one day, create something unforgettable and wonderful.
-
-### Social Media Channels
- - [Youtube](https://www.youtube.com/@xenia_42)
- - [X/Twitter](https://www.x.com/TheaSeniya)
- - [TikTok](https://www.tiktok.com/@tia_seniya)
   
 ## Studies
 
@@ -37,10 +32,9 @@ Qi Gong, Reiki, Herbology, EFT, Quantum Healing Technique
 
 ### Others
 Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intentional Communities, Sculpture, Silviculture, Permaculture, Movie Making, Marxism, Past Life Regression Hypnosis, Tarot, Runes, I Ching, Nuclear Power plant design and maintenance
-- Web Design
+- Design; web, fashion, electronics, computer systems, control rooms..
 - Mechanics: auto, motorcycle
-- Basic Plumbing
-- Home Construction
+- Home Construction: Plumbing, carpentry, electrics, etc
 
 ### Schools 
 #### Brick & Mortar
@@ -48,15 +42,17 @@ Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intenti
 - Fleming College - Electronics Engineering
 - Trent University - Computers, Psychology
 - Dhamma Toranna - Vipassana
+  
 #### Virtual
  - Mind Valley
  - Vimarsha Foundation
+ - etc
 
 
 ## Work Experience
 
 ### General
-Cleaner, factory work, retail, excavator operator
+ - Cleaner, factory work, retail, excavator operator, small business manageer
 
 ### Military
  - Military Communications Terminal Electronics Maintenance
