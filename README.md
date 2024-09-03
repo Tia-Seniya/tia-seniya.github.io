@@ -89,7 +89,8 @@ Journalism, Interior Design, Feng Shui Interior Design, Vedic Astrology, Intenti
  - Cooking
  - Vedic astrology
  - Learning more about spirituality
- - History
+ - History, anthropology
+ - Sociology, political science
  - Archaeology
  - Languages - Ancient and Modern: Tibetan, French, Russian, Portuguese, Sanskrit, Hindi, Tamil, Pali, Chinese, Arabic, Welsh, Scots Gaelic, Vietnamese, Spanish, German, Romanian, Greek, Korean, Latin, Dutch, Swedish, Czech, Nepali, Swedish, Hungarian, Hawaian
 
